@@ -5,4 +5,10 @@
 **/Data
 **/ntust-ir-2020
 
+# pdf
+*.pdf
+*.doc
+*.docx
 
+# zip
+*.zip
